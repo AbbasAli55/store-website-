@@ -1,0 +1,57 @@
+nav {
+    background-color: rgb(255, 255, 255);
+    border: 5px solid pink;
+    display: flex;
+
+
+
+}
+#hedding {
+    text-align: center;
+    color: rgb(223, 122, 138);
+}
+#s1 {
+
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 150px;
+    margin: 20px;
+    text-align: center;
+    font-family: arial;
+    float: left;
+}
+#s2 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-family: arial;
+    float: left;
+}
+#s3 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-family: arial;
+    float: left;
+}
+#s4 {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    max-width: 300px;
+    height: 150px;
+    margin: 10px;
+    text-align: center;
+    font-family: arial;
+    float: left;
+}
+button{
+    width: 80px;
+    height: 30px;
+    border-color: palevioletred;
+    background-color: white;
+    cursor: pointer;
+    transform: translate(4px);
+}
